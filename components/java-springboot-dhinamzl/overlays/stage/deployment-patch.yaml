@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/redhat-tssc/task-runner:1.8
+      - image: nexus-docker-nexus.apps.cluster-wm7t4.wm7t4.sandbox867.opentlc.com/rhtap/java-springboot-dhinamzl:6d859ba6fb4cc0ef2f49c0e35e29b66d7f975b62@sha256:e133f66887b2b99f9768aa29c3568dc8d61f9f271e5aed260019611909f04184
         name: container-image  
